@@ -1,0 +1,13 @@
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\mongoDBSample.exe.config
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\mongoDBSample.exe
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\mongoDBSample.pdb
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.csprojResolveAssemblyReference.cache
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.Form1.resources
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.Properties.Resources.resources
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.csproj.GenerateResource.Cache
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.exe
+D:\joyce\study\mongoDBSample\mongoDBSample\obj\Debug\mongoDBSample.pdb
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\MongoDB.Bson.dll
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\MongoDB.Driver.dll
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\MongoDB.Bson.xml
+D:\joyce\study\mongoDBSample\mongoDBSample\bin\Debug\MongoDB.Driver.xml
